@@ -1,4 +1,1 @@
-[
-	{"keys": ["ctrl+super+r"], "command": "reveal_in_side_bar"},
-	{ "keys": ["ctrl+super+p"], "command": "autoprefixer" }
-]
+
